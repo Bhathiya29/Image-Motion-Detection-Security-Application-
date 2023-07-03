@@ -10,4 +10,8 @@ and will find the rectangle around that object and will draw the rectangle on th
 
 The algorithm is basically like classifying pixels based on a certain threshold
 
-The moment the algorithm detects and object and email will be sent with the captured image
+The moment the algorithm detects and object, and an email will be sent with the captured image
+
+There will be multiple images captured, and the best one will be emailed
+
+This application also uses Threading.
